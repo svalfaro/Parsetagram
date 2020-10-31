@@ -19,6 +19,7 @@
 		BA550D4F2543E5EA003A7634 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA550D4E2543E5EA003A7634 /* LoginViewController.swift */; };
 		BA550D542543E5F9003A7634 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA550D532543E5F9003A7634 /* FeedViewController.swift */; };
 		BA550D592543F035003A7634 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA550D582543F035003A7634 /* CameraViewController.swift */; };
+		BAC44486254D0A8E004E3854 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC44485254D0A8E004E3854 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		BA550D4E2543E5EA003A7634 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		BA550D532543E5F9003A7634 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		BA550D582543F035003A7634 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		BAC44485254D0A8E004E3854 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		BC181150F653783191D9F9D2 /* Pods_Parsetagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parsetagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3219B901A2A6A57ECC89101 /* Pods-Parsetagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parsetagram.debug.xcconfig"; path = "Target Support Files/Pods-Parsetagram/Pods-Parsetagram.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -130,6 +132,7 @@
 				BA550D532543E5F9003A7634 /* FeedViewController.swift */,
 				BA550D582543F035003A7634 /* CameraViewController.swift */,
 				BA14D55B2544040100447BB6 /* PostCell.swift */,
+				BAC44485254D0A8E004E3854 /* CommentCell.swift */,
 			);
 			path = Parsetagram;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				BA550D542543E5F9003A7634 /* FeedViewController.swift in Sources */,
 				BA550D0F2543E0D7003A7634 /* SceneDelegate.swift in Sources */,
 				BA14D55C2544040100447BB6 /* PostCell.swift in Sources */,
+				BAC44486254D0A8E004E3854 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
